@@ -10,7 +10,7 @@ Well, wouldn't you expect to see them in a blogging application?
 Flat pages
 ==========
 
-Provided by the Django flat pages application.
+Provided by the Django flat pages on application.
 
 Categories
 ==========
